@@ -1,1 +1,3 @@
-
+The name of the course you are taking.  Intro to Programming (ITP)
+The name of a good restaurant or cafe near the venue.  Lemon grass Thai street food restaurant
+A fun fact about the city. It is known as the city of hills.
